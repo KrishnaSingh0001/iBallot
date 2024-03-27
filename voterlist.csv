@@ -1,0 +1,6 @@
+,voter_id,Name,Gender,Zone,City,Passw,hasVoted
+0,10001,Krishna Singh,Male,West,Gandhinagar,abcd,0
+1,10002,Om Raj ,Male,South,Surat,abcd,0
+2,10003,Akash Soni,Male,East,Surat,abcd,0
+3,10004,Shivanshi,Female,East,Gandhinagar,abcd,0
+4,10005,Rohan,Male,North,Bengaluru,abcd,0
